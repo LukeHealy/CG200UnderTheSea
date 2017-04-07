@@ -1,4 +1,4 @@
-CG200 - OpenGL
+CG200 - OpenGL Assignment. This is dirty af but hooked a hundy cent.
 
 Compile
 
